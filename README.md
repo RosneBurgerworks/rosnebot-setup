@@ -12,7 +12,7 @@ USERNAME:PASSWORD
 
 ## Required Dependencies
 Ubuntu/Debian
-`sudo apt-get install nodejs firejail net-tools x11-xserver-utils`
+`sudo apt-get install nodejs firejail net-tools x11-xserver-utils npm`
 
 Fedora/Centos
 `sudo dnf install nodejs firejail net-tools xorg-x11-server-utils`
